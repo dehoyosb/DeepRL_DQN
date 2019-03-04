@@ -32,7 +32,8 @@ Then, place the file in the ```p1_navigation/``` folder in the DRLND GitHub repo
 
 
 ## Running the Agent
-Once you have set up the enviroment, go to **5. Testing Agent After Learning** in Navigation.ipynb, and run all the cells from there one, except the last one which closes the enviroment. If the path to your enviroment is different, just change it in the cell below **Loading Enviroment**. You will be able to see in the unity window how the agent travels the world picking up the yellow bananas and avoiding the blue bannanas. If you want to see various episodes, just rerun the cell titled **Running Episode**
+Once you have set up the enviroment, go to **5. Testing Agent After Learning** in Navigation.ipynb, and run all the cells except the last one which closes the enviroment. If the path to your enviroment is different, just change it in the cell below **Loading Enviroment**. You will be able to see in the unity window how the agent traveling throughout the world picking up the yellow bananas and avoiding the blue bannanas. If you want to see various episode runs, just rerun the times you want the cell below **Running Episode**
+In the Case you want to train the agent from scratch, run all the cells from the beginning until the one before ***5. Testing Agent After Learning**. It will save the weights learned, and the file can be used to test the agent thereafter.
 
 
 
