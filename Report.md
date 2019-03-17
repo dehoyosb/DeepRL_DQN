@@ -28,4 +28,6 @@ Starting Epsilon = 1
 ![Image of Reward PLot](/training_results/reward_plot.png)
 ![Image of Training Process](/training_results/training_process.png)
 
+### Ideas for Improving Agents Performance
+One of the things that may be hindering performance is the random selection of experiences from the memory buffer. Why? because not every experience is the best experience that can be used to learn. There are some specific experiences that should be used more than others to improve learning in some aspects. Also, there are some experiences that are less common that others, and some of those may have valuable information that can not be neglected. So, if one could give a weight to each particular experience in a way that allows to take one particular experience more often than others, learning could be improved and could actually converge faster.
 
