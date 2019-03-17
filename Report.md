@@ -25,7 +25,7 @@ Minimum Epsilon = 0.01
 Starting Epsilon = 1
 
 ### Plot of Rewards per Episode
-![Alt text](https://github.com/dehoyosb/RL_Applications/tree/master/training_results/reward_plot.png raw=true "Rewards Plot")
-![Alt text](https://github.com/dehoyosb/RL_Applications/tree/master/training_results/training_process.png raw=true "Rewards Plot")
+![Image of Reward PLot](https://github.com/dehoyosb/RL_Applications/tree/master/training_results/reward_plot.png)
+![Image of Training Process](https://github.com/dehoyosb/RL_Applications/tree/master/training_results/training_process.png)
 
 
