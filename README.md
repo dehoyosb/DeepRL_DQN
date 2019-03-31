@@ -1,5 +1,5 @@
-# RL_Applications
-Reinforcement Learning Application
+# DeepRL_DQN
+DQN (Deep Q Network) implementation
 
 In this repository it's shown the usage of a Deep Reinforcement Tecnique called DQN or Deep Q Network, which uses the concepts of Reinforcement Learning applied in a controlled enviroment. Using a Deep Neural Network as a Function Approximator to map state to action pairs, in order to decide how an agent has to act given it's current state and the discounted cummulative reward.
 
